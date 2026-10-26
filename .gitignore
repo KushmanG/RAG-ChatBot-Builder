@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+index/
+
+# Gitignored for the privacy of the user's documents
+docs/*
+!docs/.gitkeep
+.env
+
+.DS_Store
+Thumbs.db
+
+#DONE

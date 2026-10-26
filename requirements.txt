@@ -1,0 +1,18 @@
+# For Server Setup Assistance
+fastapi
+uvicorn
+httpx
+python-dotenv
+pyyaml
+
+# For RAG
+sentence-transformers
+faiss-cpu
+numpy
+tiktoken
+
+# Doc loaders
+pypdf
+beautifulsoup4
+
+# DONE
